@@ -11,7 +11,8 @@ In my DnD application, I also needed a database to store data and since Firebase
 Using Firebase is fairly easy when you have done it more than once. It does however require some steps to setup that makes it more difficult to apply the first time. Luckily, the Firebase documentation is a great help and guides you through these steps. In this article, I will give some insight into the steps I took to add Firebase to my project and use its authentication feature.  
   
 The first step was to create a new project in the Firebase console.  
-<img src="https://user-images.githubusercontent.com/55492381/121017487-9e9fd580-c79d-11eb-83a3-50f36d4ed258.png" alt="creating new project" width="400"/>
+  
+<img src="https://user-images.githubusercontent.com/55492381/121017487-9e9fd580-c79d-11eb-83a3-50f36d4ed258.png" alt="creating new project" width="600"/>
 <!-- ![Schermafbeelding 2021-06-07 om 14 35 26](https://user-images.githubusercontent.com/55492381/121017487-9e9fd580-c79d-11eb-83a3-50f36d4ed258.png)   -->
 
 The next step was to connect the app with Firebase.  
