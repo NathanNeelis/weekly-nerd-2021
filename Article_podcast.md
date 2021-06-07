@@ -12,15 +12,22 @@ Testing, testing and testing some more. But what are we testing? Normally I woul
   
 During my first test I assumed that instead of listening to a podcast, Darice probably had to read them. Based on this assumption, I wanted to test which preferences she had for reading texts online regarding the font, font size and line-height. So I build some sliders and checkboxes that changed the look of a part of an random podcast transcription. The Funny thing was, that when Darice tested this, she preferred having the controls. She told me her preferences but also that these preferences might change during the day, for example, she might like a bigger font size and line-height later in the evening then she would like during the day.  
   
+![test1](https://user-images.githubusercontent.com/55492381/114010983-02248a00-9865-11eb-808e-e389e53a2df4.gif)  
+  
 For my second test, I wanted to try to re-create the podcast feeling (more than) instead of having just a wall of text. I experimented with dialogs appearing over time, while a bubble with the speaker’s name was bouncing as if he was speaking/typing. I also tested this concept with user input instead of over time, so Darice had to click on the speaker bubbles to let the next dialog show up, but this was not something she would see herself using. The over time test however was a success. The timings were not really on point but the idea was very well thought of.   
   
+![test2](https://user-images.githubusercontent.com/55492381/114868297-0a953b80-9df6-11eb-856b-5dd79d80e9bf.gif)  
+
 For the third and last test, I wanted to test how I could add nuances to the podcasts because in text, you cannot hear if someone is being sarcastic, surprised, or angry. You can also not read when there is an (awkward) silence for example. So, I did some test where I added gifs for expressions, like being surprised. For Darice I tried to use gifs from the tv-show Friends because she likes that tv-show a lot. It Turned out that Darice is a fan of gifs even if they’re not specifically from Friends. I also tested a small iteration on the second test because I had a good idea, but I didn’t know if she would like it or not. She commented that my speaker bubbles would be annoying in the long run. This got me trying to think of a better and since I was testing with a podcast from a lecturer of mine, I thought it might be funny to create speaking avatars. She liked this idea but on the condition I got them animated as if they were speaking. I didn’t include that in my test due to the time I had to create it.  
   
+![test3](https://user-images.githubusercontent.com/55492381/115698270-babdf380-a364-11eb-8892-b26fb4f60453.gif)  
+
 During this course I wasn’t the only one testing with Darice for a fitting solution and another student called Stan tested a feature that highlighted the spoken word at that moment in the podcast. So instead of my tests that showed a whole dialog, he highlighted the already spoken words and the word currently being spoken in a different color. This way you can read with the actual podcast speed. Darice liked this a lot and I decided I preferred this way over my test of showing whole dialogs over time.  
   
 ### Reading a podcast
 In the end, I gathered all my test results and added all successfully tested components together in one final concept. In this concept, you can start playing the podcast which would then highlight the word that is being spoken at that time and also highlight the already spoken words with a different color. This really gives the feeling of a podcast while you might not even hear the audio. I also added the font preferences options and I added nuances and some funny animations. To finish my concept, I added avatars that where animated as if speaking while there was being spoken by someone in the podcast. I animated the eyes and mouths of both avatars and after following a lip sync tutorial, I actually succeeded in letting the avatars speaking somewhat realistic.  
-
+  
+![final prototype](https://user-images.githubusercontent.com/55492381/115963509-e46f4a00-a51f-11eb-991d-312a155f36ad.gif)  
 
 ### But how does it work under the hood?
 Since this wasn’t a very technical course, we were free to fake it. In this prototype, I added data manually to the code, but there are options to do this automatically. The most important data here are time stamps. Each word has a timestamp that is being revered to the timestamp of the playing audio file of the podcast. I added these timestamps manually, but there are software options for getting these timestamps. 
