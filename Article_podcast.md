@@ -77,4 +77,9 @@ She showcased some of our solutions and I must admit, it made me proud. All this
 ### Looking to the future
 I always thought accessibility was something for the visually impaired and how these people needed access to your website. But there is more, a lot more. I experienced this firsthand with Darice, but this is just one individual with her specific limitations. Everyone has limitations and preferences and we, as designers, can find fitting solutions for everyone, if we just start talking about the user’s needs and test our concept thoroughly. This course gave me a unique experience in the future I would like to strive for more accessible design. Although primarily used for individual persons the exclusive design approach can also be a very good start in finding a solution fit for a much larger group.  
 
-
+### Resources
+[Darice](www.darice.org)  
+[lip sync tutorial](https://www.youtube.com/watch?v=VKDMpZzhCp0)  
+[test report 1](https://github.com/NathanNeelis/human-centered-design-2021/wiki/Kennismaking-&-testen) ( in Dutch )  
+[test report 2](https://github.com/NathanNeelis/human-centered-design-2021/wiki/Testing-podcast-experience-2.0) ( in Dutch )  
+[test report 3](https://github.com/NathanNeelis/human-centered-design-2021/wiki/Testing-podcast-experience-3.0) ( in Dutch )  
