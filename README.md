@@ -4,39 +4,45 @@
 stukje intro
 
 ### Table of Contents  
-[Samenvattingen]()  
-[WeeklyNerd vragen & antwoorden]()  
-[Artikelen]()  
+[Samenvattingen](https://github.com/NathanNeelis/weekly-nerd-2021#samenvattingen)  
+[WeeklyNerd vragen & antwoorden](https://github.com/NathanNeelis/weekly-nerd-2021#weeklynerd-vragen--antwoorden)  
+[Artikelen](https://github.com/NathanNeelis/weekly-nerd-2021#artikelen)  
 
 ### Samenvattingen
 <details>
 <summary>Samenvatting Dept</summary>
 
-Samenvatting image sketch notes
+![IMG_3703](https://user-images.githubusercontent.com/55492381/121371033-84046280-c93d-11eb-8c07-95b487a219e6.jpg)  
+![IMG_3704](https://user-images.githubusercontent.com/55492381/121371070-89fa4380-c93d-11eb-96ea-41686ee6e260.jpg)  
 </details>
 
 <details>
 <summary>Samenvatting Label A</summary>
 
-Samenvatting image sketch notes
+![IMG_3705](https://user-images.githubusercontent.com/55492381/121371170-a4342180-c93d-11eb-8b04-a7959493556b.jpg)  
+![IMG_3706](https://user-images.githubusercontent.com/55492381/121371156-a0080400-c93d-11eb-8b93-83761f1aee5b.jpg)  
 </details>
 
 <details>
 <summary>Samenvatting Build in Amsterdam</summary>
 
-Samenvatting image sketch notes
+![IMG_3707](https://user-images.githubusercontent.com/55492381/121371225-b1511080-c93d-11eb-8af7-d0825876f07e.jpg)
 </details>
 
 <details>
 <summary>Samenvatting Triple</summary>
 
-Samenvatting image sketch notes
+![IMG_3708](https://user-images.githubusercontent.com/55492381/121371298-bca43c00-c93d-11eb-9307-0dd74f084549.jpg)
 </details>
 
 <details>
 <summary>Samenvatting Mirabeau</summary>
 
-Samenvatting image sketch notes
+![IMG_3709](https://user-images.githubusercontent.com/55492381/121371425-d47bc000-c93d-11eb-82ea-a9ecced04853.jpg)  
+![IMG_3710](https://user-images.githubusercontent.com/55492381/121371413-d2196600-c93d-11eb-989c-3347cbb9f302.jpg)  
+![IMG_3711](https://user-images.githubusercontent.com/55492381/121371402-cfb70c00-c93d-11eb-89d3-2fdb57e7162a.jpg)  
+![IMG_3712](https://user-images.githubusercontent.com/55492381/121371508-e3627280-c93d-11eb-86a3-89eb568a4663.jpg)  
+
 </details>
 
 ### WeeklyNerd vragen & antwoorden
@@ -90,6 +96,6 @@ antwoord
 </details>
 
 ### Artikelen
-[Article firebase]()  
-[Article podcast]()  
-[Article typescript]()  
+[Article firebase](https://github.com/NathanNeelis/weekly-nerd-2021/blob/master/Article_firebase.md)  
+[Article podcast](https://github.com/NathanNeelis/weekly-nerd-2021/blob/master/Article_podcast.md)  
+[Article typescript](https://github.com/NathanNeelis/weekly-nerd-2021/blob/master/Article_typescrypt.md)  
