@@ -56,7 +56,7 @@ This doesn’t work, but what does that mean? Well, it means that I will get a r
 let myAge= '30';
 myAge = 31; 
 ```
-   
+ 
 #### Functions
 This also works with functions, to explain this I will create a function that returns my age times two.  
   
@@ -92,7 +92,7 @@ names.push('Wilmer') // => Wilmer gets added to the array
 names.push(3000) // ERROR => Cannot push a number into an array with type string.
 ```
   
-If you create an array with different types, however, you will be able to add these types in later. So, for example, if I have an array with strings and numbers, I am able to add new strings and numbers but I won’t be able to add an Boolean.  
+If you create an array with different types, however, you will be able to add these types in later. So, for example, if I have an array with strings and numbers, I am able to add new strings and numbers but I won’t be able to add an Boolean. 
  
 #### Objects
 When using objects in TS you need to know that the object properties have strict types. So if I create an object about myself with my name, age and relation status, each property will have a type. So in this object, my name will be a string, age will be a number and my relation status will be a Boolean.   
