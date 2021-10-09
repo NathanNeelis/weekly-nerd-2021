@@ -32,12 +32,12 @@ After finishing these steps I received some script tags to connect my applicatio
   // Your web app's Firebase configuration
   // For Firebase JS SDK v7.20.0 and later, measurementId is optional
   var firebaseConfig = {
-    apiKey: "AIzaSyAw0WUFvz9rAS77033NJpXx_gCQXwSArQk",
+    apiKey: "somekey",
     authDomain: "dnd-playground.firebaseapp.com",
     projectId: "dnd-playground",
     storageBucket: "dnd-playground.appspot.com",
     messagingSenderId: "609466091819",
-    appId: "1:609466091819:web:0e587557fa61fc71d6dd6e",
+    appId: "appID",
     measurementId: "G-CDPJYNMVXH"
   };
   // Initialize Firebase
